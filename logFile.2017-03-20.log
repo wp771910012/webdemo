@@ -1,0 +1,21 @@
+9373 [http-nio-8888-exec-6] INFO  c.w.w.controller.UserController - /login: 入参 LoginReq(email=771910012@qq.com, password=123456)
+9438 [http-nio-8888-exec-6] INFO  c.w.w.controller.UserController - /login:出参ResultResponse(resultCode=1, resultMessage=成功)
+9438 [http-nio-8888-exec-6] INFO  c.w.w.controller.UserController - info测试
+9438 [http-nio-8888-exec-6] WARN  c.w.w.controller.UserController - warn测试
+9438 [http-nio-8888-exec-6] ERROR c.w.w.controller.UserController - error测试
+16136 [http-nio-8888-exec-6] INFO  c.w.w.controller.UserController - /login: 入参 LoginReq(email=771910012@qq.com, password=123456)
+16257 [http-nio-8888-exec-6] INFO  c.w.w.controller.UserController - /login:出参ResultResponse(resultCode=1, resultMessage=成功)
+16257 [http-nio-8888-exec-6] INFO  c.w.w.controller.UserController - info测试
+16258 [http-nio-8888-exec-6] WARN  c.w.w.controller.UserController - warn测试
+16258 [http-nio-8888-exec-6] ERROR c.w.w.controller.UserController - error测试
+17565 [http-nio-8888-exec-9] INFO  c.w.w.controller.UserController - /login: 入参 LoginReq(email=771910012@qq.com, password=123456)
+17638 [http-nio-8888-exec-9] INFO  c.w.w.controller.UserController - /login:出参ResultResponse(resultCode=1, resultMessage=成功)
+17638 [http-nio-8888-exec-9] INFO  c.w.w.controller.UserController - info测试
+27624 [http-nio-8888-exec-10] INFO  c.w.w.controller.UserController - /login: 入参 LoginReq(email=771910012@qq.com, password=123456)
+27690 [http-nio-8888-exec-10] INFO  c.w.w.controller.UserController - /login:出参ResultResponse(resultCode=1, resultMessage=成功)
+27690 [http-nio-8888-exec-10] INFO  c.w.w.controller.UserController - info测试
+27691 [http-nio-8888-exec-10] WARN  c.w.w.controller.UserController - warn测试
+27691 [http-nio-8888-exec-10] ERROR c.w.w.controller.UserController - error测试
+19934 [http-nio-8888-exec-10] INFO  c.w.w.controller.UserController - /login: 入参 LoginReq(email=771910012@qq.com, password=123456)
+20000 [http-nio-8888-exec-10] INFO  c.w.w.controller.UserController - /login:出参ResultResponse(resultCode=1, resultMessage=成功)
+20000 [http-nio-8888-exec-10] INFO  c.w.w.controller.UserController - info测试

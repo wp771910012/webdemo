@@ -1,0 +1,23 @@
+server:
+  port: 8888                  #配置服务占用端口号
+  context-path: /webdemo      #配置环境路径名
+logging:
+  config: classpath:logback-spring.xml    #日志配置文件路径
+debug: false                              #debug级日志是否输出
+
+spring:
+  output:
+    ansi:
+      enabled: always                     #控制台彩色
+
+  thymeleaf:
+    suffix: .html                         #网页后缀名
+    mode: HTML5                           #网页类型
+    prefix: classpath:/templates/         #网页所在路径
+    encoding: UTF-8                       #网页编码格式
+    content-type: text/html              #web容器类型
+
+service:
+  url: 127.0.0.1:8887/servicedemo          #后台地址
+
+
